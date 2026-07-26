@@ -1,4 +1,4 @@
-<h2 align="left">I'm Gabriel Macedo Martins and I'm a Systems Development student.</h2>
+<h2 align="left">I'm Gabriel Macedo and I'm a Systems Development student.</h2>
 
 <p align="left">
   Currently in the 2nd year of high school at ETEC Vasco Antônio Venchiarutti.<br>
