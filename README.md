@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabriel Macedo Martins and I'm a Systems Development student.</h2>
+<h2 align="left">My name is Gabriel Macedo Martins and I'm a Systems Development student.</h2>
 
 <p align="left">
   Currently in the 2nd year of high school at ETEC Vasco Antônio Venchiarutti.<br>
@@ -8,8 +8,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Macedo293&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Macedo293&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo293&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Macedo293&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
