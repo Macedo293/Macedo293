@@ -8,7 +8,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Macedo293&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+  <!-- Card de Estatísticas Gerais (Substituindo o Streak quebrado) -->
+  <img src="https://github-readme-stats-one-ten.vercel.app/api?username=Macedo293&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <!-- Card de Linguagens (Já estava funcionando) -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Macedo293&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
@@ -35,7 +37,7 @@
   <a href="https://twitter.com/ogmaccedo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
   </a>
-  <a href="mailto:gabrielmaartins75@gmail.com">
+  <a href="mailto:gabrielmartins75@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-martins-6b9342407" target="_blank">
