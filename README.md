@@ -1,4 +1,4 @@
-<h2 align="left">I'm Gabriel Macedo and I'm a Systems Development student.</h2>
+<h2 align="left">My name is Gabriel Macedo Martins and I'm a Systems Development student.</h2>
 
 <p align="left">
   Currently in the 2nd year of high school at ETEC Vasco Antônio Venchiarutti.<br>
@@ -7,28 +7,35 @@
 
 ###
 
-<div align="center">
-  <!-- Card de Estatísticas Gerais (Substituindo o Streak quebrado) -->
-  <img src="https://github-readme-stats-one-ten.vercel.app/api?username=Macedo293&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <!-- Card de Linguagens (Já estava funcionando) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Macedo293&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<h3 align="left">🚀 About Me</h3>
+
+- 🔭 Currently studying **Systems Development** at Etec Vasco Antônio Venchiarutti.
+- 💻 Learning and practicing **Python, C#, JavaScript, C, and PHP**.
+- 🎯 Goals: Building web/software projects and improving my programming logic.
+- ⚡ Fun fact: Passionate about technology, hardware, and solving complex problems.
 
 ###
+
+<h3 align="left">🛠️ Tools & Technologies</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+  <br><br>
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </div>
 
 ###
+
+<h3 align="left">📫 Connect with me</h3>
 
 <div align="left">
   <a href="https://instagram.com/ogmaccedo" target="_blank">
@@ -37,7 +44,7 @@
   <a href="https://twitter.com/ogmaccedo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
   </a>
-  <a href="mailto:gabrielmartins75@gmail.com">
+  <a href="mailto:gabrielmaartins75@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-martins-6b9342407" target="_blank">
